@@ -1,2 +1,18 @@
-# My_Lectures
-Comprehensive Data Analysis Course covering Python and SQL. Includes practical examples, scripts, and exercises for data manipulation, cleaning, visualization, and querying databases. Perfect for beginners and professionals looking to master data analysis techniques in real-world scenarios.
+# Data Analysis Course Lectures  
+
+Welcome to my Data Analysis Course! Below are the lectures with their respective links to my Facebook posts.  
+
+## Lectures  
+
+1. **Lecture 1:** [Facebook Link](https://www.facebook.com/iCodeguru/videos/1236192064340759/)  
+2. **Lecture 2:** [Facebook Link](https://fb.watch/wn-KTJmBck/)  
+3. **Lecture 3:** [Facebook Link](https://fb.watch/wrWJkzhfDF/)  
+4. **Lecture 4:** [Facebook Link](https://fb.watch/wzS08o5V1r/)  
+5. **Lecture 5:** [Facebook Link](https://fb.watch/wGre1plaiV/)
+6. **Lecture 5:** [Facebook Link](https://fb.watch/wHOCPsRyCS/)
+7. **Lecture 5:** [Facebook Link](https://fb.watch/wKoISELUwj/)
+8. **Lecture 5:** [Facebook Link](https://fb.watch/wSiJbfxCAF/)
+9. **Lecture 5:** [Facebook Link](https://fb.watch/w_2lO2jpmN/)
+10.**Lecture 5:** [Facebook Link](https://fb.watch/w_EWLD2WZk/) 
+
+Stay tuned for more lectures!  
