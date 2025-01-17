@@ -14,6 +14,7 @@ Welcome to my Data Analysis Course! Below are the lectures with their respective
 8. **Lecture 8:** [Facebook Link](https://fb.watch/wSiJbfxCAF/)
 9. **Lecture 9:** [Facebook Link](https://fb.watch/w_2lO2jpmN/)
 10.**Lecture 10:** [Facebook Link](https://fb.watch/w_EWLD2WZk/) 
-11.**Lecture 11:** [Facebook Link](https://fb.watch/w-yUvwcZv0/) 
+11.**Lecture 11:** [Facebook Link](https://fb.watch/w-yUvwcZv0/)
+12.**Lecture 12:** [Facebook Link](https://fb.watch/x0R9_I8SfW/)
 
 Stay tuned for more lectures!  
